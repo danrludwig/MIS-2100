@@ -1,7 +1,3 @@
-'''
-Daniel Ludwig - A02220549
-'''
-
 import os
 '''
 importing the operating system
